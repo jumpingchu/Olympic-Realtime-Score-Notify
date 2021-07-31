@@ -8,5 +8,5 @@
 
 ## Demo
 
-![notify_1](./demo/notify_1.jpg)
-![notify_2](./demo/notify_2.jpg)
+![notify_1](./demo/notify_1.JPG)
+![notify_2](./demo/notify_2.JPG)
