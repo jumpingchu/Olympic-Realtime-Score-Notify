@@ -1,0 +1,6 @@
+URL = 'https://www.google.com/async/torspo?ei=wuEEYZkqiLWYBeK8pYAG&yv=3&p3=1&async=emids:%2Fg%2F11fr0b7qvf,id:lu,ctx:%5Bnull%2Cnull%2C%5B%5B%22ev2%22%2C%22clb%22%2C%22tlb%22%2C%22tv%22%2C%22gs2%22%2C%22msv%22%5D%5D%2Cnull%2C1%2Cnull%2C1%2C%5Bnull%2C%5Bnull%2Cnull%2Cnull%2C%22%2Fm%2F05gj2h%22%5D%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%22%2Fm%2F0194d%22%5D%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5Bnull%2Cnull%2C%22%2Fm%2F06vvk%22%5D%5D%2C28%2C1%5D,dme:%2Fg%2F11fr0b7qvf,ct:,hl:zh-TW,tz:Asia%2FTaipei,_fmt:jspb'
+# URL = 'https://www.google.com/async/torspo?ei=IN8DYdK_IKG0mAWhiae4DA&rlz=1C1RXQR_zh-TWCN960CN960&yv=3&p3=1&async=emids:%2Fg%2F11fr0bhqlc,id:lu,ctx:%5Bnull%2Cnull%2C%5B%5B%22ev2%22%2C%22clb%22%2C%22tlb%22%2C%22tv%22%2C%22gs2%22%2C%22msv%22%5D%5D%2Cnull%2C1%2Cnull%2C1%2C%5Bnull%2C%5Bnull%2Cnull%2Cnull%2C%22%2Fm%2F05gj2h%22%5D%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5Bnull%2Cnull%2C%22%2Fm%2F06vvk%22%5D%2C%5Bnull%2C%22%2Fg%2F11j1f4pb5t%22%5D%5D%2C27%2C1%5D,dme:,ct:,hl:zh-TW,tz:Asia%2FTaipei,_fmt:jspb'
+
+applet = 'Your Applet Name'
+key = 'Your IFTTT Key'  # Go To https://ifttt.com/maker_webhooks/settings
+value1 = '' # 只是先設定，還不需填入
