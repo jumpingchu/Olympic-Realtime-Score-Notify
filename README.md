@@ -8,5 +8,6 @@
 
 ## Demo
 
-![notify_1](./demo/notify_1.JPG)
-![notify_2](./demo/notify_2.JPG)
+<img src="./demo/notify_1.JPG" width=400>
+
+<img src="./demo/notify_2.JPG" width=400>
