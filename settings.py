@@ -3,4 +3,3 @@ URL = 'https://www.google.com/async/torspo?ei=wuEEYZkqiLWYBeK8pYAG&yv=3&p3=1&asy
 
 applet = 'Your Applet Name'
 key = 'Your IFTTT Key'  # Go To https://ifttt.com/maker_webhooks/settings
-value1 = '' # 只是先設定，還不需填入
